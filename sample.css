@@ -1,0 +1,25 @@
+body{
+    background-color:black;
+    color :white;
+    text-align:center;
+    padding: 3px;
+    font-style: italic;
+    font-family:'Times New Roman', Times, serif
+}
+h2,h3,h4,h5,h6{
+    border: 2px solid powderblue;
+    padding: 30px;
+    margin: 50px;
+}
+
+h2:hover{
+    color:yellow;
+}
+
+button{
+    background-color: aquamarine;
+}
+
+img{
+    width: 100%;
+}
